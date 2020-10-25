@@ -1,0 +1,31 @@
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 08:56:19
+Error occured while process the data : Internal Server Error
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 08:56:19
+Exception occured while processing the request =System.Exception: Internal Server Error
+   at MVCAssignment.Controllers.MovieController.GetMovieDetails() in F:\Assignment\MVCAssignment\MVCAssignment\Controllers\MovieController.cs:line 43
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 09:16:02
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 10:05:47
+Error occured while process the data : Not Found
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 10:05:47
+Exception occured while processing the request =System.Exception: Not Found
+   at MVCAssignment.Controllers.MovieController.GetSeasons() in F:\Assignment\MVCAssignment\MVCAssignment\Controllers\MovieController.cs:line 80
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 12:33:31
+Error occured while process the data : Not Found
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 12:33:32
+Exception occured while processing the request =System.Exception: Not Found
+   at MVCAssignment.Controllers.MovieController.GetSeasons() in F:\Assignment\MVCAssignment\MVCAssignment\Controllers\MovieController.cs:line 80
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 12:38:58
+Error occured while process the data : Not Found
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 12:38:58
+Exception occured while processing the request =System.Exception: Not Found
+   at MVCAssignment.Controllers.MovieController.GetMovieDetails() in F:\Assignment\MVCAssignment\MVCAssignment\Controllers\MovieController.cs:line 45
