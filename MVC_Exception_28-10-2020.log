@@ -1,0 +1,20 @@
+----------------ASP .NET MVC EXCEPTION------------------------
+28-10-2020 13:17:19
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+28-10-2020 13:40:11
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+28-10-2020 13:40:28
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+28-10-2020 14:02:53
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+28-10-2020 14:11:21
+Exception occured while processing the request =System.NullReferenceException: Object reference not set to an instance of an object.
+   at MVCAssignment.Controllers.MovieController.GetURL(String Title, String ApiName, String Season, String Year, String Plot) in G:\Backup2\MVCAssignment\MVCAssignment\Controllers\MovieController.cs:line 72
+   at MVCAssignment.Controllers.MovieController.<SearchMovie>d__3.MoveNext() in G:\Backup2\MVCAssignment\MVCAssignment\Controllers\MovieController.cs:line 41
+----------------ASP .NET MVC EXCEPTION------------------------
+28-10-2020 14:18:19
+data =MVCAssignment.Models.Movie

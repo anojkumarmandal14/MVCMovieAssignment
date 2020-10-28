@@ -1,31 +1,57 @@
 ----------------ASP .NET MVC EXCEPTION------------------------
-25-10-2020 08:56:19
-Error occured while process the data : Internal Server Error
-----------------ASP .NET MVC EXCEPTION------------------------
-25-10-2020 08:56:19
-Exception occured while processing the request =System.Exception: Internal Server Error
-   at MVCAssignment.Controllers.MovieController.GetMovieDetails() in F:\Assignment\MVCAssignment\MVCAssignment\Controllers\MovieController.cs:line 43
-----------------ASP .NET MVC EXCEPTION------------------------
-25-10-2020 09:16:02
+25-10-2020 13:22:22
 data =MVCAssignment.Models.Movie
 ----------------ASP .NET MVC EXCEPTION------------------------
-25-10-2020 10:05:47
-Error occured while process the data : Not Found
+25-10-2020 16:13:23
+data =MVCAssignment.Models.Movie
 ----------------ASP .NET MVC EXCEPTION------------------------
-25-10-2020 10:05:47
-Exception occured while processing the request =System.Exception: Not Found
-   at MVCAssignment.Controllers.MovieController.GetSeasons() in F:\Assignment\MVCAssignment\MVCAssignment\Controllers\MovieController.cs:line 80
+25-10-2020 16:16:40
+data =MVCAssignment.Models.Movie
 ----------------ASP .NET MVC EXCEPTION------------------------
-25-10-2020 12:33:31
-Error occured while process the data : Not Found
+25-10-2020 16:37:37
+data =MVCAssignment.Models.Series
 ----------------ASP .NET MVC EXCEPTION------------------------
-25-10-2020 12:33:32
-Exception occured while processing the request =System.Exception: Not Found
-   at MVCAssignment.Controllers.MovieController.GetSeasons() in F:\Assignment\MVCAssignment\MVCAssignment\Controllers\MovieController.cs:line 80
+25-10-2020 16:39:10
+data =MVCAssignment.Models.Series
 ----------------ASP .NET MVC EXCEPTION------------------------
-25-10-2020 12:38:58
-Error occured while process the data : Not Found
+25-10-2020 16:41:10
+data =MVCAssignment.Models.Series
 ----------------ASP .NET MVC EXCEPTION------------------------
-25-10-2020 12:38:58
-Exception occured while processing the request =System.Exception: Not Found
-   at MVCAssignment.Controllers.MovieController.GetMovieDetails() in F:\Assignment\MVCAssignment\MVCAssignment\Controllers\MovieController.cs:line 45
+25-10-2020 16:46:17
+data =MVCAssignment.Models.Series
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 22:21:32
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 22:27:43
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 22:30:21
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 22:33:15
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 22:41:15
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 22:42:01
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 22:42:28
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 22:42:43
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 22:44:07
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 22:44:41
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 22:44:57
+data =MVCAssignment.Models.Movie
+----------------ASP .NET MVC EXCEPTION------------------------
+25-10-2020 22:52:32
+data =MVCAssignment.Models.Movie
